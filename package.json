@@ -1,0 +1,33 @@
+{
+  "name": "elementsculmyca2017backendapi",
+  "version": "1.0.0",
+  "description": "REST API of backend for elements culmyca 2017 website and android app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manan-YMCA/ElementsCulmyca2017Backend.git"
+  },
+  "author": "vipinkhushu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "body-parser": "^1.16.0",
+    "exotel":"^1.0.1",
+    "async":"^2.1.4",
+    "sendgrid":"^4.7.1",
+    "html-pdf":"^2.1.0",
+    "path":"^0.12.7",
+    "request":"^2.79.0",
+    "node-ga":"^0.1.1",
+    "cookie-parser":"^1.4.3",
+    "mongo-xlsx" : "^1.0.12"
+  },
+  "bugs": {
+    "url": "https://github.com/Manan-YMCA/ElementsCulmyca2017Backend/issues"
+  },
+  "homepage": "https://github.com/Manan-YMCA/ElementsCulmyca2017Backend#readme"
+}
